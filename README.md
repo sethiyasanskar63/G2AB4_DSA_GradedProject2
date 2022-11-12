@@ -16,6 +16,7 @@ This project contains 2 packages:
        1.The number of floors cannot be less than 1.
        2.The size of floors is relational, therefore cannot be greater than number of floors.
        3.The size of floors cannot be less than 1.
+       4.The size of floors is distinct.
        
   #q2: This package contains the solution of 2nd problem statement. It is further divided into 2 packages:
   
